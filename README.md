@@ -1,6 +1,6 @@
 # minhas_anotacoes
 
-A new Flutter project.
+9th exercise-app with the objective of creating a Notes App using a database to store data and be capable of simple CRUD options.
 
 ## Getting Started
 
